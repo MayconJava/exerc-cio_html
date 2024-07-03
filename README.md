@@ -1,2 +1,2 @@
-# exerc-cio_html
+# exercicio_html
 Tarefa do curso EBAC
